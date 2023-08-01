@@ -14,3 +14,4 @@
 ### -> Para colar no terminal é shift+insert <br>
 ### -> git push -u origin main (Ele envia os códigos para o repositório remoto)<br>
 ### -> git pull (Pega as alteraçoes do repositório remoto)<br>
+### -> git clone (Faz uma cópia do repositório do github para a minha pasta local)<br>
