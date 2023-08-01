@@ -11,5 +11,6 @@
 ### -> git commit -m "first commit" (confirma localmente o envio do arquivo para o git)<br>
 ### -> git branch -M main (cria uma nova branch com o nome main. No lugar de main pode ser qualquer nome)<br>
 ### -> git remote add origin https://github.com/HedColaco/HtmlStarbucks.git (conecta o repositório local com o remoto)<br>
+### -> Para colar no terminal é shift+insert <br>
 ### -> git push -u origin main (Ele envia os códigos para o repositório remoto)<br>
 ### -> git pull (Pega as alteraçoes do repositório remoto)<br>
